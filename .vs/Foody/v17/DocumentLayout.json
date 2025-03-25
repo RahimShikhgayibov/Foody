@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Foody\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CD4ADE-F877-4E2C-97F8-0EEB1D0B7F2A}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|c:\\users\\user\\source\\repos\\foody\\foody.presentationlayer\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3CD4ADE-F877-4E2C-97F8-0EEB1D0B7F2A}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|solutionrelative:foody.presentationlayer\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CD4ADE-F877-4E2C-97F8-0EEB1D0B7F2A}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|c:\\users\\user\\source\\repos\\foody\\foody.presentationlayer\\controllers\\adminlayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CD4ADE-F877-4E2C-97F8-0EEB1D0B7F2A}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|solutionrelative:foody.presentationlayer\\controllers\\adminlayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,6 +51,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Foody\\Foody.PresentationLayer\\Views\\AdminLayout\\Index.cshtml",
+              "RelativeDocumentMoniker": "Foody.PresentationLayer\\Views\\AdminLayout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Foody\\Foody.PresentationLayer\\Views\\AdminLayout\\Index.cshtml",
+              "RelativeToolTip": "Foody.PresentationLayer\\Views\\AdminLayout\\Index.cshtml",
+              "ViewState": "AgIAAEIDAAAAAAAAAAAAAFcDAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T09:36:30.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminLayoutController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Foody\\Foody.PresentationLayer\\Controllers\\AdminLayoutController.cs",
+              "RelativeDocumentMoniker": "Foody.PresentationLayer\\Controllers\\AdminLayoutController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Foody\\Foody.PresentationLayer\\Controllers\\AdminLayoutController.cs",
+              "RelativeToolTip": "Foody.PresentationLayer\\Controllers\\AdminLayoutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:28:04.862Z",
+              "EditorCaption": ""
             }
           ]
         }
