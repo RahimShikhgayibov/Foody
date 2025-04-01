@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Foody\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3CD4ADE-F877-4E2C-97F8-0EEB1D0B7F2A}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|c:\\users\\user\\source\\repos\\foody\\foody.presentationlayer\\views\\categories\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3CD4ADE-F877-4E2C-97F8-0EEB1D0B7F2A}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|solutionrelative:foody.presentationlayer\\views\\categories\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A3CD4ADE-F877-4E2C-97F8-0EEB1D0B7F2A}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|c:\\users\\user\\source\\repos\\foody\\foody.presentationlayer\\views\\products\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3CD4ADE-F877-4E2C-97F8-0EEB1D0B7F2A}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|solutionrelative:foody.presentationlayer\\views\\products\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3CD4ADE-F877-4E2C-97F8-0EEB1D0B7F2A}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|c:\\users\\user\\source\\repos\\foody\\foody.presentationlayer\\wwwroot\\kaiadmin-lite-1.2.0\\tables\\tables.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3CD4ADE-F877-4E2C-97F8-0EEB1D0B7F2A}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|solutionrelative:foody.presentationlayer\\wwwroot\\kaiadmin-lite-1.2.0\\tables\\tables.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3CD4ADE-F877-4E2C-97F8-0EEB1D0B7F2A}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|c:\\users\\user\\source\\repos\\foody\\foody.presentationlayer\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3CD4ADE-F877-4E2C-97F8-0EEB1D0B7F2A}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|solutionrelative:foody.presentationlayer\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3CD4ADE-F877-4E2C-97F8-0EEB1D0B7F2A}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|c:\\users\\user\\source\\repos\\foody\\foody.presentationlayer\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3CD4ADE-F877-4E2C-97F8-0EEB1D0B7F2A}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|solutionrelative:foody.presentationlayer\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A3CD4ADE-F877-4E2C-97F8-0EEB1D0B7F2A}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|c:\\users\\user\\source\\repos\\foody\\foody.presentationlayer\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CD4ADE-F877-4E2C-97F8-0EEB1D0B7F2A}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|solutionrelative:foody.presentationlayer\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,54 +54,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "tables.html",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Foody\\Foody.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\tables\\tables.html",
-              "RelativeDocumentMoniker": "Foody.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\tables\\tables.html",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Foody\\Foody.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\tables\\tables.html",
-              "RelativeToolTip": "Foody.PresentationLayer\\wwwroot\\kaiadmin-lite-1.2.0\\tables\\tables.html",
-              "ViewState": "AgIAALACAAAAAAAAAAAAAMgCAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-26T12:57:59.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CategoryList.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Foody\\Foody.PresentationLayer\\Views\\Categories\\CategoryList.cshtml",
-              "RelativeDocumentMoniker": "Foody.PresentationLayer\\Views\\Categories\\CategoryList.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Foody\\Foody.PresentationLayer\\Views\\Categories\\CategoryList.cshtml",
-              "RelativeToolTip": "Foody.PresentationLayer\\Views\\Categories\\CategoryList.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Foody\\Foody.PresentationLayer\\Views\\Products\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "Foody.PresentationLayer\\Views\\Products\\ProductList.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Foody\\Foody.PresentationLayer\\Views\\Products\\ProductList.cshtml",
+              "RelativeToolTip": "Foody.PresentationLayer\\Views\\Products\\ProductList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T12:55:20.613Z",
+              "WhenOpened": "2025-04-01T04:15:44.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Foody\\Foody.PresentationLayer\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "Foody.PresentationLayer\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Foody\\Foody.PresentationLayer\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "Foody.PresentationLayer\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Foody\\Foody.PresentationLayer\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Foody.PresentationLayer\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Foody\\Foody.PresentationLayer\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Foody.PresentationLayer\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T12:52:02.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Foody\\Foody.PresentationLayer\\Views\\AdminLayout\\Index.cshtml",
-              "RelativeDocumentMoniker": "Foody.PresentationLayer\\Views\\AdminLayout\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Foody\\Foody.PresentationLayer\\Views\\AdminLayout\\Index.cshtml",
-              "RelativeToolTip": "Foody.PresentationLayer\\Views\\AdminLayout\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T10:09:53.073Z",
+              "WhenOpened": "2025-04-01T04:12:45.828Z",
               "EditorCaption": ""
             }
           ]

@@ -1,8 +1,7 @@
-﻿@model List<Foody.EntityLayer.Concrete.Category>
-
+﻿@model List<Product>
 
 @{
-    ViewData["Title"] = "CategoryList";
+    ViewData["Title"] = "ProductList";
     Layout = "~/Views/AdminLayout/Index.cshtml";
 }
 
@@ -31,7 +30,7 @@
             </ul>
         </div>
         <div class="row">
-            
+
             <div class="col-md-12">
 
                 <div class="card">
@@ -42,15 +41,17 @@
                         <table class="table table-hover">
                             <thead>
                                 <tr>
+                                    <th scope="col">Product Id</th>
+                                    <th scope="col">Product Name</th>
+                                    <th scope="col">Stock</th>
+                                    <th scope="col">Price</th>
                                     <th scope="col">Category Id</th>
-                                    <th scope="col">Category Name</th>
-                                    <th scope="col">Status</th>
-                                    <th scope="col">Delete</th>
                                     <th scope="col">Update</th>
+                                    <th scope="col">Delete</th>
                                 </tr>
                             </thead>
                             <tbody>
-                                @foreach(var item in Model)
+                                @foreach (var item in Model)
                                 {
                                     <tr>
                                         <td>@item.Id</td>
